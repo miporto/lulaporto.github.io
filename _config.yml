@@ -54,8 +54,8 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 github_username: lulaporto # your GitHub user name
 gitlab_username: # your GitLab user name
 twitter_username: tw_lula # your Twitter handle
-linkedin_username: Lucila Porto # your LinkedIn user name
-scholar_userid: # your Google Scholar ID
+linkedin_username: Lucila-Porto # your LinkedIn user name
+scholar_userid: sOHyZtcAAAAJ # your Google Scholar ID
 orcid_id: 0000-0003-0663-7785 # your ORCID ID
 medium_username: # your Medium username
 quora_username: # your Quora username
@@ -68,10 +68,10 @@ wikidata_id: # your wikidata id
 dblp_url: # your DBLP profile url
 stackoverflow_id: #your stackoverflow id
 
-rss_icon: true
+rss_icon: false
 
-contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
+contact_note: # You can even add a little note about which of these is the best way to reach you. >
+  
 
 google_analytics:  # your google-analytics ID (format: UA-XXXXXXXXX)
 google_site_verification:  # your google-site-verification ID (Google Search Console)
