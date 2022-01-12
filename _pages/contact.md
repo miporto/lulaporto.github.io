@@ -9,4 +9,5 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 * <a href="https://lulaporto.github.io">GitHub Page</a> 
+* <a href="mailto:lporto@udesa.edu.ar">Mail</a> 
 * <span class="email">lporto@udesa.edu.ar</span>
