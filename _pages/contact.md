@@ -6,4 +6,4 @@ description:
 nav: true
 ---
 
-* <a href="https://lulaporto.github.io">al-folio</a> GitHub Page
+* <a href="https://lulaporto.github.io">GitHub Page</a> 
