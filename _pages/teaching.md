@@ -5,7 +5,7 @@ title: Teaching
 nav: true
 ---
 
-# Universidad de Buenos Aires
+## Universidad de Buenos Aires
 
 * Microeconomics I, 2020-present
 
@@ -15,6 +15,6 @@ nav: true
 
 * Macroeconomics I, 2016-2017
 
-# Universidad de San Andrés
+## Universidad de San Andrés
 
 * Microeconomics I, 2022
