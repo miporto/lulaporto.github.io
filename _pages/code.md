@@ -8,11 +8,11 @@ nav: true
 <!-- _pages/publications.md -->
 <div class="program">
 
-<h2 class="program">{Julia}</h2>
+<h2 class="program">{{Julia}}</h2>
 
 Codigos de Julia
 
-<h2 class="program">{Stata}</h2>
+<h2 class="program">{{Stata}}</h2>
 
 Codigos de Stata
 
