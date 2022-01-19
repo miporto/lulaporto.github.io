@@ -34,3 +34,5 @@ nav: true
 ## MATLAB
 
 * Dynamic Macro (master course) [Link to repository](https://github.com/lulaporto/Macro-dinamica.git)
+
+* Spatial Econometrics (master course) [Link to repository](https://github.com/lulaporto/TP2.git)
