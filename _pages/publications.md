@@ -2,11 +2,11 @@
 layout: page
 permalink: /publications/
 title: Publications
-description: Publications in reversed chronological order.
-years: [2020, 2017]
+description: Publications in chronological order.
+years: [2017, 2020]
 nav: true
 ---
-<!-- _pages/publications.md -->
+<!-- _pages/publications.md --> 
 <div class="publications">
 
 {%- for y in page.years %}
