@@ -1,6 +1,7 @@
 ---
 layout: about
 title: About
+number: 1
 permalink: /
 
 profile:

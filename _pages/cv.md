@@ -2,6 +2,7 @@
 layout: page
 permalink: /cv/
 title: Curriculum
+number: 4
 description: Links to curriculum
 nav: true
 ---
