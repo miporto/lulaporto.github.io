@@ -7,9 +7,9 @@ nav: true
 
 ## Universidad de Buenos Aires
 
-* Microeconomics I, 2020-present
+* Microeconomics I, 2020-2021
 
-* Indutrial Organization, 2019-present
+* Indutrial Organization, 2019-2021
 
 * Mathematics for Economists, 2017-2018
 
@@ -17,4 +17,4 @@ nav: true
 
 ## Universidad de San Andrés
 
-* Microeconomics I, 2022
+* Microeconomics I, 2022-present
