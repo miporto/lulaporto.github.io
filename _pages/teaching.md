@@ -10,7 +10,7 @@ nav: true
 
 * Microeconomics I, 2020-2021
 
-* Indutrial Organization, 2019-2021
+* Industrial Organization, 2019-2021
 
 * Mathematics for Economists, 2017-2018
 
