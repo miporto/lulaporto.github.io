@@ -69,6 +69,9 @@
                         {%- endif -%}
                       {%- endfor %}
                       </div>
+            {%- capture entrytype -%}<em>In {{entry.title}}</em> {%- endcapture -%}
+            {%- capture entrytype -%}<em>edited by {{entry.editor}}</em> {%- endcapture -%}
+            {%- capture entrytype -%}<em>pp. {{entry.pages}}</em> {%- endcapture -%}
         {%- else %}
           <!-- Title -->
           <div class="title">{{entry.title}}</div>
@@ -128,8 +131,6 @@
             {%- capture entrytype -%}<em>{{entry.journal}}</em>{%- endcapture -%}
           {%- elsif entry.type == "inproceedings" -%}
             {%- capture entrytype -%}<em>In {{entry.booktitle}}</em> {%- endcapture -%}
-          {%- elsif entry.type == "inbook" -%}
-            {%- capture entrytype -%}<em>In {{entry.title}}</em> {%- endcapture -%}
           {%- endif -%}
           {%- if entry.month -%}
             {%- capture entrymonth -%}{{ " " }}{{ entry.month | capitalize }}{%- endcapture -%}
