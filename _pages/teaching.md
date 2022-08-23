@@ -19,3 +19,5 @@ nav: true
 ## Universidad de San Andrés
 
 * Microeconomics I, 2022-present
+
+* Microeconomics II, 2022-present
