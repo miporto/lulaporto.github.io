@@ -8,7 +8,7 @@ nav: true
 
 ## Universidad de Buenos Aires
 
-* Microeconomics I, 2020-2021
+* Intermediate Microeconomics, 2020-2021
 
 * Industrial Organization, 2019-2021
 
@@ -18,6 +18,6 @@ nav: true
 
 ## Universidad de San Andrés
 
-* Microeconomics I, 2022-present
+* Intermediate Microeconomics, 2022-present
 
-* Microeconomics II, 2022-present
+* Game Theory, 2022-present
