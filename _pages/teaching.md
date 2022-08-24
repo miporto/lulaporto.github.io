@@ -6,6 +6,13 @@ number: 3
 nav: true
 ---
 
+## Universidad de San Andrés
+
+* Intermediate Microeconomics, 2022-present
+
+* Game Theory, 2022-present
+
+
 ## Universidad de Buenos Aires
 
 * Intermediate Microeconomics, 2020-2021
@@ -15,9 +22,3 @@ nav: true
 * Mathematics for Economists, 2017-2018
 
 * Macroeconomics I, 2016-2017
-
-## Universidad de San Andrés
-
-* Intermediate Microeconomics, 2022-present
-
-* Game Theory, 2022-present
