@@ -67,10 +67,10 @@
               {%- endif -%}
             {%- endfor %}
             </div>
-            <!-- Type -->
-            <div class="type">{{entry.type}}</div>
             <!-- Institution -->
             <div class="institution">{{entry.institution}}</div>
+            <!-- Level -->
+            <div class="level">{{entry.level}}</div>
         {%- elsif entry.type == "inbook" -%}
           <!-- Title Book Chapter -->
           <div class="ch-title">{{entry.chapter}}</div>
@@ -127,7 +127,9 @@
           <!-- Title Book -->
           <div class="book-title">In {{entry.title}}, {{entry.edition}}. 
             Edited by {{entry.editor}}. 
-            {{entry.publisher}}.
+            {%- if entry.publisher %}
+              {{entry.publisher}}.
+            {%- endif -%}
           </div>
           {%- capture entrytype -%}<em>pp. {{entry.pages}}</em> {%- endcapture -%}
         {%- else %}
