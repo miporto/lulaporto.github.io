@@ -131,7 +131,6 @@
               {{entry.publisher}}.
             {%- endif -%}
           </div>
-          {%- capture entrytype -%}<em>pp. {{entry.pages}}</em> {%- endcapture -%}
         {%- else %}
           <!-- Title -->
           <div class="title">{{entry.title}}</div>
@@ -188,7 +187,7 @@
 
           <!-- Journal/Book title and date -->
           {% if entry.type == "article" -%}
-            {%- capture entrytype -%}<em>{{entry.journal}}</em>{%- endcapture -%}
+            <div class="journal">{{entry.journal}}</div>
           {%- elsif entry.type == "inproceedings" -%}
             {%- capture entrytype -%}<em>In {{entry.booktitle}}</em> {%- endcapture -%}
           {%- endif -%}
