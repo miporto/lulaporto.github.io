@@ -15,4 +15,10 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-I am a master’s student in Economics at the [Universidad de San Andrés](https://udesa.edu.ar/departamento-de-economia/maestria-en-economia). 
+I am a Pre-doc Assistant at the [Universidad de San Andrés](https://udesa.edu.ar/departamento-de-economia). 
+
+
+* M.A. in Economics, 2021: Universidad de San Andres
+
+* B.A. in Economics, 2020: Universidad de Buenos Aires
+
