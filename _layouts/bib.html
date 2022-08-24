@@ -127,7 +127,7 @@
           <!-- Title Book -->
           <div class="book-title">In {{entry.title}}, {{entry.edition}}. </div>
           <div class="editors">
-            Edited by 
+            Edited by  
             {%- for author in entry.editor_array -%}
               {%- assign author_is_self = false -%}
               {%- if author.last == site.scholar.last_name%}
@@ -235,7 +235,7 @@
 
           <!-- Journal/Book title and date -->
           {% if entry.type == "article" -%}
-            <div class="journal">{{entry.journal}}, {{entry.volume}}({{entry.issue}}), {{entry.pages}}</div>
+            <div class="journal">{{entry.journal}}, {{entry.volume}}({{entry.issue}}), {{entry.pages}}. DOI: {{entry.doi}}</div>
           {%- elsif entry.type == "inproceedings" -%}
             {%- capture entrytype -%}<em>In {{entry.booktitle}}</em> {%- endcapture -%}
           {%- endif -%}
