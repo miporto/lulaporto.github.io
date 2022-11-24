@@ -1,8 +1,10 @@
 ---
 layout: page
-permalink: /https://lulaporto.github.io/assets/pdf/CV_ingles.pdf
+permalink: /cv/
 title: Curriculum
 number: 4
-description: Links to curriculum
+description: 
 nav: true
 ---
+
+[Link to CV](https://lulaporto.github.io/assets/pdf/CV_ingles.pdf)
