@@ -15,10 +15,10 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-I am a Pre-doc Assistant at the [Universidad de San Andrés](https://udesa.edu.ar/departamento-de-economia). 
+I am a Pre-doc Assistant at the [Universidad de San Andrés](https://udesa.edu.ar/departamento-de-economia), Argentina. 
 
 
-* M.A. in Economics, 2021: Universidad de San Andres
+* M.A. in Economics, 2021: Universidad de San Andres, Argentina
 
-* B.A. in Economics, 2020: Universidad de Buenos Aires
+* B.A. in Economics, 2020: Universidad de Buenos Aires, Argentina
 

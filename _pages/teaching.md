@@ -6,14 +6,14 @@ number: 3
 nav: true
 ---
 
-### Universidad de San Andrés
+### Universidad de San Andrés, Argentina
 
 * Intermediate Microeconomics, 2022-present
 
 * Game Theory, 2022-present
 
 
-### Universidad de Buenos Aires
+### Universidad de Buenos Aires, Argentina
 
 * Intermediate Microeconomics, 2020-2021
 
