@@ -9,7 +9,7 @@ last_name: Porto
 email: lporto@udesa.edu.ar
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
  I am a master’s student in Economics at the Universidad de San Andrés.
-footer_text: >
+footer_text: 
 keywords: # jekyll, jekyll-theme, academic-website, portfolio-website  # add your own keywords or leave empty
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
