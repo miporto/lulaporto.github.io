@@ -8,6 +8,8 @@ nav: true
 
 ### Universidad de San Andrés, Argentina
 
+* Advanced Microeconomics (graduate course), 2023-present
+
 * Intermediate Microeconomics, 2022-present
 
 * Game Theory, 2022-present
