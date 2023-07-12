@@ -15,7 +15,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-I am a Pre-doc at the [Universidad de San Andrés](https://udesa.edu.ar/departamento-de-economia), Argentina, and an Incoming PhD student at [UC Berkeley](https://www.econ.berkeley.edu/grad).
+I am an Incoming PhD student at [UC Berkeley](https://www.econ.berkeley.edu/grad).
 
 
 * M.A. in Economics, 2022: Universidad de San Andres, Argentina
