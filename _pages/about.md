@@ -15,7 +15,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-I am an Incoming PhD student at [UC Berkeley](https://www.econ.berkeley.edu/grad).
+I am a fisrt year PhD student at [UC Berkeley](https://www.econ.berkeley.edu/grad).
 
 
 * M.A. in Economics, 2022: Universidad de San Andres, Argentina
