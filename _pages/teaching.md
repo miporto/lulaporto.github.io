@@ -4,6 +4,7 @@ permalink: /teaching/
 title: Teaching
 number: 3
 nav: true
+nav_order: 6
 ---
 
 ### Universidad de San Andrés, Argentina

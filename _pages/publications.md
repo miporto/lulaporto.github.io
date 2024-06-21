@@ -6,6 +6,7 @@ number: 2
 description: Publications in reverse chronological order.
 years: [2022, 2020, 2017]
 nav: true
+nav_order: 2
 ---
 <!-- _pages/publications.md --> 
 <div class="publications">
